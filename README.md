@@ -26,7 +26,7 @@ DigitalPaws is a web application built with **ASP.NET Core MVC** that helps pet 
 
 ## 🔧 **How to Build & Run the Project**  
 ### **1️⃣ Clone the Repository**  
-git clone https://github.com/jaskirat-git/DigitalPaws.git
+git clone https://github.com/Aryan-teria/capstone.git
 cd DigitalPaws
 2️⃣ Configure the Database
 Update the appsettings.json with your SQL Server connection string.
